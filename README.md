@@ -6,19 +6,28 @@ About Me
 Short Description
 ------------------
 
-I'm a Full-Stack (mostly Java) Developer with a keen interest in Cryptography
+Full-Stack (mostly Java) Developer with a keen interest in Cryptography
 and other Information Security topics.
 
 Some Details
 -------------
 
-_Full-Stack_ - it's a broad term, in my opinion, and if you frown on hearing it, I know what you feel. I just use it here with the meaning: I can do _stuff_, from HTML/CSS/JavaScript to Java/Python/ShellScripting and databases.
+_Full-Stack_ - it's a broad term, in my opinion, and if you frown on hearing it,
+I know what you feel. I just use it here with the meaning: I can do _stuff_,
+from HTML/CSS/JavaScript to Java/Python/ShellScripting and databases.
 
-_mostly Java_ - because Java is what I excel at, but I am trying to improve my Python or JavaScript skills, and bring them to the same level. I am an Oracle Certified Professional, Java SE 6 Programmer.
+_mostly Java_ - because Java is what I excel at, but I am trying to improve
+my Python or JavaScript skills, and bring them to the same level.
+I'm an Oracle Certified Professional, Java SE 6 Programmer.
 
-_Information Security_, and especially _Cryptography_ - This is my true passion. If Java is my second (after the mother) language, Crypto and InfoSec are my heart.
+_Developer_ - that's that I am. A clean one. And I like to say that I craft things.
 
-_Why the Full Name is missing?_ - Because I am conscientious about my privacy and I want to have the control of my online presence. I refer select people from my real life to this online persona.
+_Information Security_, and especially _Cryptography_ - this is my true passion.
+If Java is my second (after the mother) language, Crypto and InfoSec are my heart.
+
+_Why the Full Name is missing?_ - because I am conscientious about my privacy
+and I want to have the control of my online presence. I refer select people from
+my real life to this online persona.
 
 Other Accounts
 ---------------
