@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+Welcome to my git-based and integrity-protected blog and website!
 
-You can use the [editor on GitHub](https://github.com/pcjdev/pcjdev.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+About Me
+=========
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Short Description
+------------------
 
-### Markdown
+I'm a Full-Stack (mostly Java) Developer with a keen interest in Cryptography
+and other Information Security topics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some Details
+-------------
 
-```markdown
-Syntax highlighted code block
+_Full-Stack_ - it's a broad term, in my opinion, and if you frown on hearing it, I know what you feel. I just use it here with the meaning: I can do _stuff_, from HTML/CSS/JavaScript to Java/Python/ShellScripting and databases.
 
-# Header 1
-## Header 2
-### Header 3
+_mostly Java_ - because Java is what I excel at, but I am trying to improve my Python or JavaScript skills, and bring them to the same level. I am an Oracle Certified Professional, Java SE 6 Programmer.
 
-- Bulleted
-- List
+_Information Security_, and especially _Cryptography_ - This is my true passion. If Java is my second (after the mother) language, Crypto and InfoSec are my heart.
 
-1. Numbered
-2. List
+_Why the Full Name is missing?_ - Because I am conscientious about my privacy and I want to have the control of my online presence. I refer select people from my real life to this online persona.
 
-**Bold** and _Italic_ and `Code` text
+Other Accounts
+---------------
 
-[Link](url) and ![Image](src)
-```
+* [GitHub](https://github.com/pcjdev)
+* [StackOverflow/StackExchange](https://stackexchange.com/users/11698810/pcjdev)
+* [Keybase](https://keybase.io/pcjdev)
+* [Twitter](https://twitter.com/pcjdev)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+About this Website/Blog/Repo
+=============================
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pcjdev/pcjdev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Integrity protection
+---------------------
 
-### Support or Contact
+This blog/repo is integrity protected using [git
+tags](https://www.kernel.org/pub/software/scm/git/docs/git-tag.html) digitially
+signed with [my blog-signing key](/keys/). In order to verify the
+authenticity of all or any of the posts, you can use the following command:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    $ git describe --exact-match HEAD
+    <some tag>
+    $ git tag -v <some tag>
+
+License/Copyrights
+-------------------
+
+This Blog and Website by **pcjdev** is licensed under a [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
+License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

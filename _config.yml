@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: pcjdev blog
+url: "https://pcjdev.github.io"
+
+# Build settings
+markdown: kramdown
