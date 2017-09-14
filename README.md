@@ -13,7 +13,7 @@ Some Details
 -------------
 
 _Full-Stack_ - it's a broad term, in my opinion, and if you frown on hearing it,
-I know what you feel. I just use it here with the meaning: I can do _stuff_,
+I know how you feel. I just use it here with the meaning: I can do _stuff_,
 from HTML/CSS/JavaScript to Java/Python/ShellScripting and databases.
 
 _mostly Java_ - because Java is what I excel at, but I am trying to improve
@@ -29,11 +29,12 @@ _Why the Full Name is missing?_ - because I am conscientious about my privacy
 and I want to have the control of my online presence. I refer select people from
 my real life to this online persona.
 
-Other Accounts
----------------
+My Accounts
+------------
 
 * [GitHub](https://github.com/pcjdev)
-* [StackOverflow/StackExchange](https://stackexchange.com/users/11698810/pcjdev)
+* [StackExchange](https://stackexchange.com/users/11698810/pcjdev)
+* [StackOverflow](https://stackoverflow.com/users/8564666/pcjdev)
 * [Keybase](https://keybase.io/pcjdev)
 * [Twitter](https://twitter.com/pcjdev)
 
