@@ -8,10 +8,11 @@ show_excerpts: false
 
 minima:
   date_format: "%Y-%m-%d"
+
   social_links:
     twitter: pcjdev
-    github:  pcjdev
-    rss:  rss
+    github: pcjdev
+    rss: rss
 
 theme: minima
 
