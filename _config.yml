@@ -1,6 +1,15 @@
-# Site settings
-title: pcjdev
-url: "https://pcjdev.github.io"
+title: pcjdev.github.io
+author: pcjdev
+description: >
+  The personal blog of a software engineer passionate about programming,
+  clean code, security and open source.
 
-# Build settings
-markdown: kramdown
+show_excerpts: false
+
+minima:
+  date_format: "%Y-%m-%d"
+  social_links:
+    github:  pcjdev
+    twitter: pcjdev
+
+theme: minima

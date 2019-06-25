@@ -1,4 +1,4 @@
 pcjdev.github.io
 ================
 
-A git-based website and blog
+A GitHub Pages website and blog, with posts about programming and security.
