@@ -1,4 +1,4 @@
 pcjdev.github.io
 ================
 
-A GitHub Pages website and blog, with posts about programming and security.
+A Jekyll based GitHub Pages website, with posts about programming and security.

@@ -1,5 +1,5 @@
-.bundle
-.vendor
 _site
+.bundle
 Gemfile
 Gemfile.lock
+.DS_Store
