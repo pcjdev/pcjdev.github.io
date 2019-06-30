@@ -144,13 +144,55 @@ trim_trailing_whitespace = true
 
 **README.md** - file that usually holds the description of the git repository content
 ```
-Simple GitHub Pages site with Jekyll
-====================================
+# Simple GitHub Pages site with Jekyll
 
 A simple GitHub Pages site with Jekyll.
 ```
 
-# Step 6: Customize the theme
+# Step 6: Customization
+
+The following [defaults](https://help.github.com/en/articles/configuring-jekyll) are set by GitHub, which **you are free to override** in your _config.yml file:
+
+```
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
+```
+
+GitHub Pages & Jekyll override the following settings in your _config.yml file, which **you cannot change**:
+
+```
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+```
+
+[Default plugins](https://help.github.com/en/articles/configuring-jekyll-plugins) are **enabled by default** and **cannot be disabled**:
+
+```
+- jekyll-coffeescript
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-paginate
+- jekyll-relative-links
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-default-layout
+- jekyll-titles-from-headings
+```
 
 With gem-based themes, some of the site’s directories (such as the assets, _layouts, _includes, and _sass directories) are stored in the theme’s gem, hidden from your immediate view. Yet all of the necessary directories will be read and processed during Jekyll’s build process.
 
@@ -197,6 +239,8 @@ That's all folks!
 - [GitHub Pages Basics](https://help.github.com/en/categories/github-pages-basics)
 - [Further reading on GitHub Pages](https://help.github.com/en/articles/further-reading-on-github-pages)
 - [Writing on GitHub](https://help.github.com/en/categories/writing-on-github)
+- [GitHub Pages - Configuring Jekyll](https://help.github.com/en/articles/configuring-jekyll)
+- [GitHub Pages - Configuring Jekyll plugins](https://help.github.com/en/articles/configuring-jekyll-plugins)
 - [Jekyll - GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Jekyll - Themes](https://jekyllrb.com/docs/themes/)
 - [Jekyll - Posts](https://jekyllrb.com/docs/posts/)
