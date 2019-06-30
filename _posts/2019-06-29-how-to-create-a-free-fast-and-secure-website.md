@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to Create a Free, Fast and Secure Website with Jekyll and GitHub Pages"
-categories: blogging
+categories: web-design
 ---
 
 A [static website](https://en.wikipedia.org/wiki/Static_web_page) has noteworthy [advantages](https://dzone.com/articles/6-reasons-why-you-should-go-for-a-static-website) over a dynamic one, like improved performance and security.
 
-Here is a simple (and [opinionated](todo://link-to-the-first-blog-post)) way to build a static website, with [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
+Here is a simple (and [opinionated]({{ site.baseurl }}{% post_url 2019-06-27-about-this-blog-disclaimer %})) way to build a static website, with [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
 
 # Step 1: Create the repository
 
@@ -199,3 +199,4 @@ That's all folks!
 - [Writing on GitHub](https://help.github.com/en/categories/writing-on-github)
 - [Jekyll - GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Jekyll - Themes](https://jekyllrb.com/docs/themes/)
+- [Jekyll - Posts](https://jekyllrb.com/docs/posts/)
