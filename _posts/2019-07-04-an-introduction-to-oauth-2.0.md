@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An introduction to OAuth 2.0"
+title: "An Introduction to OAuth 2.0"
 categories: security
 ---
 
